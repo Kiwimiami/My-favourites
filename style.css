@@ -1,0 +1,13 @@
+html {
+  background-color: rgb(143, 90, 90);
+  background: url(img/monstera-deliciosa-plant-leaves-garden_53876-139813.avif);
+  background-size: cover;
+}
+body {
+  border: solid black 2px;
+  background-color: rgb(247, 240, 240, 0.7);
+  width: 600px;
+  margin: auto;
+  padding: 100px;
+  border-radius: 20px;
+}
